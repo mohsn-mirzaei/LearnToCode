@@ -21,10 +21,12 @@
 
 مترجم: محسن میرزایی، توسعه دهنده فرانت‌اند
 
-https://mohsenmirzaei.ir
+[mohsenmirzaei.ir](https://mohsenmirzaei.ir)
 
 منبع اصلی:
 
-https://www.appbrewery.co/p/12-rules-to-learn-to-code
+[www.appbrewery.co](https://www.appbrewery.co/p/12-rules-to-learn-to-code)
 
 خیلی خب،‌ بهتره که شروع کنیم:
+
+[قانون اول](https://github.com/mohsn-mirzaei/LearnToCode/blob/main/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86/%D9%82%D8%A7%D9%86%D9%88%D9%86%E2%80%8C%D8%A7%D9%88%D9%84.md)
